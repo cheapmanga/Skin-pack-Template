@@ -8,4 +8,5 @@ Recommended tools:
 
 After editing your .pck skin file you need to put it in a folder.
 Then, you need to move your folder to "LCEWindows64\Windows64Media\DLC".
+
 I recommend naming your folder the same as your .pck file.
