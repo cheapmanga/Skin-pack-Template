@@ -1,9 +1,6 @@
 # Skin-pack-Template
 Minecraft LCE Skin-pack Template
 
-# Documentation
-`.pck` is the primary file extension you will find  
-
 ---
 
 # Needed tools
