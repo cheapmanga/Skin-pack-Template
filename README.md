@@ -19,3 +19,6 @@ If you don't want to use the provided tools, you can search other ones, there ar
 
 # Tutorial 
 https://www.youtube.com/watch?v=Tme_ywgBoDs
+
+---
+Keep or delete the Steve and Alex skins in the template
