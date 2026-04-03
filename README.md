@@ -15,6 +15,9 @@ If you don't want to use the provided tools, you can search other ones, there ar
 ---
 
 # Tutorial 
+
+RECOMENDED : https://www.youtube.com/watch?v=gZ8B_2ss_Ck  
+
 https://www.youtube.com/watch?v=Tme_ywgBoDs
 
 ---
